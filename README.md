@@ -31,6 +31,7 @@ Idho Jonathan Sembiring & NIM: 243303621251
 
 Screenshot app di HP fisik (wajib!)
 VIDEO NYA ⬇️
+
 https://github.com/user-attachments/assets/0b66538a-06f2-4caf-9f34-00c4033cdb1d
 
 Cara menjalankan project (npx expo start)
