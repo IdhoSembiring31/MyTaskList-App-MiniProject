@@ -30,4 +30,6 @@ Idho Jonathan Sembiring & NIM: 243303621251
 - ✅ **Smooth Animations** — Subtle shadows and opacity transitions
 
 Screenshot app di HP fisik (wajib!)
+https://github.com/user-attachments/assets/3cdf2904-d72a-4171-8fa2-8e459cfa7b74
+
 Cara menjalankan project (npx expo start)
